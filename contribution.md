@@ -15,7 +15,7 @@ Welcome to our open-source project! We’re thrilled to have you here and apprec
 ## **How Can I Contribute?**
 
 ### **1. Reporting Bugs**
-If you encounter a bug, please let us know by [opening an issue](https://github.com/sw-mobility/SDV_AIFW/issues). When reporting a bug, please include:
+If you encounter a bug, please let us know by [opening an issue](https://github.com/sw-mobility/Edge_Vision/issues). When reporting a bug, please include:
 - **A clear and descriptive title**
 - **Steps to reproduce the issue**
 - **Expected and actual results**
@@ -27,7 +27,7 @@ This information helps us diagnose and resolve the issue more quickly.
 ---
 
 ### **2. Suggesting Enhancements**
-We’re always looking for ways to improve! If you have an idea for a new feature or enhancement, please [open a feature request](https://github.com/sw-mobility/SDV_AIFW/issues) and provide:
+We’re always looking for ways to improve! If you have an idea for a new feature or enhancement, please [open a feature request](https://github.com/sw-mobility/Edge_Vision/issues) and provide:
 - **A clear and descriptive title**
 - **Problem you’re trying to solve**
 - **Proposed solution** (if applicable)
@@ -40,7 +40,7 @@ We’ll review and discuss your proposal to see how it fits into the project’s
 ### **3. Submitting Code Changes**
 If you’d like to contribute code, please follow these steps:
 1. **Fork the repository**
-2. **Clone your fork** locally (`git clone https://github.com/your-username/sw-mobility/SDV_AIFW.git`)
+2. **Clone your fork** locally (`git clone https://github.com/your-username/sw-mobility/Edge_Vision.git`)
 3. **Create a new branch** for your changes (`git checkout -b feature/your-feature-name`)
 4. **Run tests** to ensure everything works (`npm test`, `pytest`, etc.)
 5. **Commit your changes** (`git commit -m "Add new feature"`)
