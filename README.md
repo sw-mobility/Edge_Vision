@@ -7,6 +7,8 @@ Additionally, our research explores hardware acceleration and parallel processin
 TBD
 
 ## Contact
+Vehicle Intelligence Perception LAB at Gachon University <https://sites.google.com/view/vip-lab>
+
  - Jhonghyun An, Professor of the Gachon Univ / jhonghyun@gachon.ac.kr
  - Nahyeong Kim, Master's Student of the Gachon Univ / skgud99@gachon.ac.kr
  - Sun Choi, Master's Student of the Gachon Univ / sun4194@gachon.ac.kr
