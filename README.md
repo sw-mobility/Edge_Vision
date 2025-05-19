@@ -11,10 +11,10 @@ Vehicle Intelligence Perception LAB at Gachon University <https://sites.google.c
 
  - Jhonghyun An, Professor of the Gachon Univ / jhonghyun@gachon.ac.kr
  - Nahyeong Kim, Master's Student of the Gachon Univ / skgud99@gachon.ac.kr
- - Sun Choi, Master's Student of the Gachon Univ / sun4194@gachon.ac.kr
  - Seong Kyu Choi, Master's Student of the Gachon Univ / seongkyu950324@gachon.ac.kr
  - Young Jae Cheong, Master's Student of the Gachon Univ / bluebull777@gachon.ac.kr
  - Yejun Lee, Master's Student of the Gachon Univ / dldpwns001@gachon.ac.kr
- - Sungju An, Master's Student of the Gachon Univ / samsj1209@gachon.ac.kr 
+ - Sungju An, Master's Student of the Gachon Univ / samsj1209@gachon.ac.kr
+ - Siwoo Kim, Master's Student of the Gachon Univ / ksw5830@gachon.ac.kr
 
 -------------
