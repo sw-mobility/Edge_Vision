@@ -50,7 +50,10 @@ https://github.com/THU-MIG/yolov10
 <pre> <code> python3 infer.py --weights yolov11n.pt --conf 0.25 --source 0 --view-img </code> </pre>
 
 # Use in a AGX Orin
-## 
+TBD
+
+# Use in a Orin Nano
+TBD
 
 ## Contact
 Vehicle Intelligence Perception LAB at Gachon University <https://sites.google.com/view/vip-lab>
