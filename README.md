@@ -5,6 +5,7 @@ Additionally, our research explores hardware acceleration and parallel processin
 
 
 # Use in a Local
+
 # YOLO-series
 YOLOv5 ~ v11 for Inference at Local & Jetson board
 
