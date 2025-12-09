@@ -4,6 +4,8 @@ We are actively conducting research focused on the design and optimization of li
 Additionally, our research explores hardware acceleration and parallel processing tools to identify and address performance bottlenecks, providing optimal solutions tailored for autonomous driving systems.
 
 
+
+
 # Use in a Local
 
 # YOLO-series
