@@ -11,6 +11,7 @@ YOLOv5 ~ v11 for Inference at Local & Jetson board
 <pre> <code> pip install ultralytics </code> </pre>
 <pre> <code> pip install -r requirements.txt </code> </pre>
 
+
 ## yolov5 github
 https://github.com/ultralytics/yolov5
 ### Inference using webcam
