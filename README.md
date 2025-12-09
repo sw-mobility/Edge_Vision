@@ -49,6 +49,7 @@ and also connect to the link below
 
 ## yolov11 github
 https://github.com/THU-MIG/yolov10
+
 ### Inference using webcam
 <pre> <code> python3 infer.py --weights yolov11n.pt --conf 0.25 --source 0 --view-img </code> </pre>
 
